@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "down": "survivalgear:blocks/stick_bundle_top",
+		"up": "survivalgear:blocks/stick_bundle_top",
+		"north": "survivalgear:blocks/stick_bundle_side",
+        "south": "survivalgear:blocks/stick_bundle_side",
+		"east": "survivalgear:blocks/stick_bundle_side",
+		"west": "survivalgear:blocks/stick_bundle_side",
+		"particle": "survivalgear:blocks/stick_bundle_side"
+    }
+}

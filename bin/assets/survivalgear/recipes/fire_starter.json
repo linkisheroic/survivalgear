@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "survivalgear:paracord"
+			
+		},
+		{
+			"item": "minecraft:flint_and_steel"
+		}
+	],
+	"result": {
+		"item": "survivalgear:fire_starter",
+		"count": 1
+	}
+}

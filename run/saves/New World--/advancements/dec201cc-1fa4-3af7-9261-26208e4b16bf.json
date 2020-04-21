@@ -1,0 +1,26 @@
+{
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2018-12-12 16:08:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "zombie_villager": "2018-12-12 16:08:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "zombie_villager": "2018-12-12 16:08:06 -0500"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "savanna": "2018-12-12 16:07:35 -0500"
+    },
+    "done": false
+  }
+}

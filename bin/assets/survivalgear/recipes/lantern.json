@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "1#1",
+    "1S1",
+    "111"
+  ],
+  "key": {
+    "#": {
+      "item": "survivalgear:paracord"
+    },
+	"S": {
+		"item": "minecraft:torch"
+	},
+	"1": {
+		"item": "minecraft:iron_ingot"
+	}
+  },
+  "result": {
+    "item": "survivalgear:lantern",
+    "count": 1
+  }
+}

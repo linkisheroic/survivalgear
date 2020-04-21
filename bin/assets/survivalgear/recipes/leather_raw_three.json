@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "survivalgear:hide_sheep"
+		},
+		{
+			"item": "survivalgear:survival_knife"
+		}
+	],
+	"result": {
+		"item": "survivalgear:leather_raw",
+		"count": 1
+	}
+}

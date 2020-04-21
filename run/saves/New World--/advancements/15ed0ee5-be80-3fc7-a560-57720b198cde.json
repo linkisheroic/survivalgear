@@ -1,0 +1,14 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "savanna": "2018-12-12 23:25:44 -0500"
+    },
+    "done": false
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2018-12-12 23:25:44 -0500"
+    },
+    "done": true
+  }
+}

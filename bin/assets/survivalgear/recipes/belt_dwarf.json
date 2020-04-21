@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#1#",
+    "1 1",
+    "SES"
+  ],
+  "key": {
+    "#": {
+      "item": "survivalgear:paracord"
+    },
+	"S": {
+		"item": "minecraft:iron_pickaxe"
+	},
+	"E": {
+		"item": "minecraft:emerald"
+	},
+	"1": {
+		"item": "minecraft:leather"
+	}
+  },
+  "result": {
+    "item": "survivalgear:belt_dwarf",
+    "count": 1
+  }
+}

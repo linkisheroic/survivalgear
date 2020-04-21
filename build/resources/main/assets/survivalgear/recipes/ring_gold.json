@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "1 1",
+    " 1 "
+  ],
+  "key": {
+    "1": {
+      "type": "forge:ore_dict",
+	  "ore": "ingotGold"
+    }
+  },
+  "result": {
+    "item": "survivalgear:ring_gold",
+    "count": 1
+  }
+}

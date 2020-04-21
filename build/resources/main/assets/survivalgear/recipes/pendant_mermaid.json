@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "E1E",
+    " S "
+  ],
+  "key": {
+    "#": {
+      "item": "survivalgear:paracord"
+    },
+	"S": {
+		"item": "minecraft:diamond"
+	},
+	"E": {
+		"item": "minecraft:prismarine_shard"
+	},
+	"1": {
+		"item": "minecraft:prismarine_crystals"
+	}
+  },
+  "result": {
+    "item": "survivalgear:pendant_mermaid",
+    "count": 1
+  }
+}

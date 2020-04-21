@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "1#1",
+    "1S1",
+    " S "
+  ],
+  "key": {
+    "#": {
+      "item": "survivalgear:paracord"
+    },
+	"S": {
+		"item": "minecraft:stick"
+	},
+	"1": {
+		"item": "minecraft:iron_ingot"
+	}
+  },
+  "result": {
+    "item": "survivalgear:iron_slingshot",
+    "count": 1
+  }
+}

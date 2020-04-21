@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#X#",
+    "1 1",
+    "S S"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:diamond"
+    },
+	"S": {
+		"item": "minecraft:iron_ingot"
+	},
+	"X": {
+		"item": "minecraft:magma_cream"
+	},
+	"1": {
+		"item": "minecraft:blaze_powder"
+	}
+  },
+  "result": {
+    "item": "survivalgear:pauldron_inferno",
+    "count": 1
+  }
+}

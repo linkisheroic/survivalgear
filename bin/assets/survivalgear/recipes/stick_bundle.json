@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "SSS",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "type": "forge:ore_dict",
+	  "ore": "stickWood"
+    }
+  },
+  "result": {
+    "item": "survivalgear:stick_bundle",
+    "count": 1
+  }
+}
